@@ -2,17 +2,20 @@
 
 # Pengguna Termux
 
-pkg update && pkg upgrade
-pkg install nodejs
-pkg install libwebp
-pkg install git
+> pkg update && pkg upgrade
+>
+> pkg install nodejs
 
-pkg install ffmpeg
+> pkg install libwebp
 
-pkg install yarn
+> pkg install git
 
-termux-setup-storage
+> pkg install ffmpeg
 
-cd /sdcard/cyobot
+> pkg install yarn
 
-bash main.sh
+> termux-setup-storage
+
+> cd /sdcard/cyobot
+
+> bash main.sh
