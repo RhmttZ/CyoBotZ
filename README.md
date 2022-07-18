@@ -3,11 +3,8 @@
 # Pengguna Termux
 
 pkg update && pkg upgrade
-
 pkg install nodejs
-
 pkg install libwebp
-
 pkg install git
 
 pkg install ffmpeg
