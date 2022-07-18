@@ -1,6 +1,21 @@
 # CyoBotZ
 
 # Pengguna Termux
-> ╭───❲ Termux ❳
-> │➪
-> ╰─
+
+> •> pkg update && pkg upgrade 
+> 
+> •> pkg install nodejs 
+>
+> •> pkg install libwebp 
+>
+> •> pkg install git 
+>
+> •> pkg install ffmpeg 
+>
+> •> pkg install yarn 
+>
+> •> termux-setup-storage 
+>
+> •> cd /storage/cyobot 
+>
+> •> bash main.sh 
