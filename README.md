@@ -19,3 +19,14 @@
 > •> cd /storage/cyobot 
 >
 > •> bash main.sh 
+
+# List Menu
+
+> OTHERS MENU
+> GROUP MENU
+> OWNER MENU
+> FUN MENU
+> CONVERT MENU
+> NULIS MENU
+> ANIME MENU
+> DOWNLOAD MENU
